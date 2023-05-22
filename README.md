@@ -18,3 +18,4 @@
 
 - [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
 - [<b>Animate On Scroll</b>](https://github.com/michalsnik/aos/tree/v2) - Small library to animate elements on your page as you scroll.
+- [<b>Bootstrap</b>](https://getbootstrap.com/) -Powerful, extensible, and feature-packed frontend toolkit.
