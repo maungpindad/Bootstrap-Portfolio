@@ -5,3 +5,20 @@
 nav {
   color: #f8f8f2;
 }
+
+.jumbotron {
+  padding-top: 3rem;
+  background-color: #282a36;
+}
+
+.jumbotron img {
+  width: 200px;
+}
+section h1 {
+  color: #ff79c6;
+  font-family: "Inter", sans-serif;
+}
+
+section p {
+  color: #f8f8f2;
+}
