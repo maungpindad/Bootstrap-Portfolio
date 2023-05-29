@@ -3,6 +3,7 @@
 > A clean, beautiful, responsive for my personal portfolio
 
 :star: Star me on GitHub — because it;s amazing
+<br>
 :exclamation: This portfolio is still not finished
 
 ## Sections 📚
