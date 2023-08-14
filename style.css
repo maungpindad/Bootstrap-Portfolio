@@ -1,14 +1,19 @@
-* {
-  font-family: "Noto Sans", sans-serif;
-}
-
 nav {
   color: #f8f8f2;
+  font-family: "Roboto", sans-serif;
 }
 
 .jumbotron {
   padding-top: 3rem;
   background-color: #282a36;
+}
+
+.jumbotron h1 {
+  font-family: "Ubuntu Mono", monospace;
+}
+
+.jumbotron p {
+  font-family: "Noto Sans", sans-serif;
 }
 
 .jumbotron img {
