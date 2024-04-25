@@ -44,3 +44,15 @@ section p {
   text-decoration-thickness: 2px;
   text-underline-offset: 2px;
 }
+
+.spacer {
+  aspect-ratio: 960/540;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.layer1 {
+  background-image: url(./img/wave-haikei.svg);
+}
