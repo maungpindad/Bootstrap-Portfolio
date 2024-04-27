@@ -3,6 +3,10 @@ nav {
   font-family: "Roboto", sans-serif;
 }
 
+body {
+  background-color: #6272a4;
+}
+
 .jumbotron {
   padding-top: 3rem;
   background-color: #282a36;
@@ -51,8 +55,4 @@ section p {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-}
-
-.layer1 {
-  background-image: url(./img/wave-haikei2.svg);
 }
