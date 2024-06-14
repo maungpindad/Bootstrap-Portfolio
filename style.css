@@ -253,14 +253,3 @@ nav {
 .card1 {
   background-color: #6272a4;
 }
-
-.button1 {
-  background-color: #282a36;
-  color: #f8f8f2;
-  transition: background-color 0.3s ease;
-}
-
-.button1:hover {
-  background-color: #f8f8f2;
-  color: #282a36;
-}
